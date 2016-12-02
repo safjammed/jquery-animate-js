@@ -4,7 +4,8 @@ Have you wondered how to do CSS3 animations with jquery? Well, Now you can do th
 Save time,save space.This project is still on development phase, any critisism will be welcomed.
 
 ## demo
-Please refer to
+Check This out https://safjammed.github.io/jquery-animate-js/
+Get the codes too! :)
 
 ## Requirement
   1. jQuery 1.8 and up

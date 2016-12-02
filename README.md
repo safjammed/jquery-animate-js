@@ -38,7 +38,7 @@ Please refer to
    ```javascript
    $(obejct).doAnim(options);
    ```
-   * This plugin has following options:
+   This plugin has following options/ Configuration:
     1. 'animation' (Animation name)
     2. 'times' (how many times the animation would run)
     3. 'duration'(the duration of each animation)

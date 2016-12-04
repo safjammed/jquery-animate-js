@@ -22,6 +22,8 @@ Get the codes too! :)
     <script src="jquery.animate.js"></script>
   </head>
   ```
+  
+### with jQuery:
 2. Write code like the following:
 
 * Easy way: simply write the following code to start:
@@ -55,8 +57,37 @@ EXAMPLE:
         });
    ```
    The upper code will wait 1 sec. animate #myobj with pulse effect 2 times and a duration 0.5 secs each time.
+* Callback Function :
+   Call back function added on version 0.2. You can tell what happens after the animation ends. Write codes like this:
+   ```javascript
+   $('#myobj').doAnim('bounce', function(){
+    //This is the callback function
+      alert('The animation has finished');
+    });
+    ```
+    With options:
+     ```javascript
+  $('#myobj').doAnim({
+        'animation' : 'pulse',
+        'times' : 2,
+        'duration' : 0.5,
+        'delay' :1
+        }, function(){
+          //This is the callback function
+          alert('The animation has finished');
+    });
+   ```
+   
+### With HTML-CSS
+2. Add the class 'animated' to the element you want to animate along with an animation name from the supported animations. You may also want to include the class infinite for an infinite loop.
 
-##supported animations
+Example:
+The following code will make #myobj bounce once
+  ```HTML
+  <div id="myobj" class="animated bounce"> Some text here </div>
+  ```
+
+## supported animations
 
   * `bounce`
   * `flash`

@@ -1,5 +1,5 @@
 
-# jquery.animate.js v. [![GitHub release](https://img.shields.io/github/release/safjammed/jquery-animate-js.svg)](https://github.com/safjammed/jquery-animate-js/releases)
+# jquery.animate.js [![GitHub release](https://img.shields.io/github/release/safjammed/jquery-animate-js.svg)](https://github.com/safjammed/jquery-animate-js/releases)
 Have you wondered how to do CSS3 animations with jquery? Well, Now you can do those fun and cool animations with jquery with ease. 
 Save time,save space.This project is still on development phase, any critisism will be welcomed.
 

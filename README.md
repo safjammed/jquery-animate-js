@@ -1,5 +1,5 @@
 
-# jquery.animate.js
+# jquery.animate.js v. 0.2
 Have you wondered how to do CSS3 animations with jquery? Well, Now you can do those fun and cool animations with jquery with ease. 
 Save time,save space.This project is still on development phase, any critisism will be welcomed.
 
@@ -134,6 +134,13 @@ EXAMPLE:
   * `slideOutRight`
   * `slideOutUp`
 
+## ChangeLog:
+
+Version - 0.2
+ * Added Callback Feafuture
+
+Version - 0.01
+  * Initial Release
 
 ## License
 Animate.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)

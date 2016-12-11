@@ -22,7 +22,7 @@ Licensed under MIT License
 			'duration' : null,
 			'delay' : null,
 		};
-		console.log($.isPlainObject(options));
+		
 
 		if(options && $.isPlainObject(options) == true) {
 			$.extend(settings, options);

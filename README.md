@@ -12,7 +12,7 @@ Get the codes too! :)
   2. Browser with HTML5 support
  
 
-## Basic Usage
+## Basic Usage 
 1. Include the stylesheet on your document's `<head>`
 
   ```html
